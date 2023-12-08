@@ -1,0 +1,31 @@
+[PropertyInfo]
+border1,javax.swing.border.Border,false,false, , ,false,<default>
+border2,javax.swing.border.Border,false,false, , ,false,<default>
+border3,javax.swing.border.Border,false,false, , ,false,<default>
+border4,javax.swing.border.Border,false,false, , ,false,<default>
+border5,javax.swing.border.Border,false,false, , ,false,<default>
+border6,javax.swing.border.Border,false,false, , ,false,<default>
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout2,java.awt.BorderLayout,false,false, , ,false,<default>
+btnClear,javax.swing.JButton,false,false, , ,false,<default>
+btnExit,javax.swing.JButton,false,false, , ,false,<default>
+btnStart,javax.swing.JButton,false,false, , ,false,<default>
+btnStop,javax.swing.JButton,false,false, , ,false,<default>
+chkVisitedURLs,javax.swing.JCheckBox,false,false, , ,false,<default>
+cmbBoxDomain,javax.swing.JComboBox,false,false, , ,false,<default>
+JLabel1,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel2,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel3,javax.swing.JLabel,false,false, , ,false,<default>
+jspContainer,javax.swing.JSplitPane,false,false, , ,false,<default>
+lblStatus,javax.swing.JLabel,false,false, , ,false,<default>
+lstMessages,java.awt.List,false,false, , ,false,<default>
+lstResult,java.awt.List,false,false, , ,false,<default>
+myPanel,javax.swing.JPanel,false,false, , ,false,<default>
+txtMaxSites,javax.swing.JTextField,false,false, , ,false,<default>
+txtPortal,javax.swing.JTextField,false,false, , ,false,<default>
+XYLayout1,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="webcrawler.jnlp">
+  <information>
+    <title>webcrawler</title>
+    <vendor>SMO</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\mysql-connector.jar" size="540852" download="eager" />
+    <jar href="webcrawler.jar" size="45695" download="eager" />
+  </resources>
+  <application-desc main-class="webcrawler.WebCrawlerMainClass"  name="webcrawler" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
